@@ -1,2 +1,4 @@
 .idea
 *.pyc
+Accounts.csv
+config.json
